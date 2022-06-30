@@ -1,0 +1,27 @@
+#h2canvas
+{
+    font-family: 'Kdam Thmor Pro', sans-serif;
+    margin-left: 200px;
+}
+#myCard
+{
+    margin-bottom: 10px;
+    border: 3px rgb(94, 89, 89) dashed;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    transition: all .3s ease-in-out;
+}
+#myCard:hover
+{
+    box-shadow: 0 19px 43px 0 rgba(0, 0, 0, 0.834), 0 6px 20px 0 rgba(0, 0, 0, 0.926);
+    transform: translate3d(0px, -10px, 0px);
+}
+canvas
+{
+    height: 430px;
+    width: 95%;
+    margin-left: 15px;
+    border: 2px rgb(94, 89, 89) solid;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}

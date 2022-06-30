@@ -1,0 +1,17 @@
+#title-row
+{
+    margin-top: 100px;
+}
+
+Button
+{
+    margin-top: 5px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    transition: all .3s ease-in-out;
+}
+Button:hover
+{
+    box-shadow: 0 5px 5px 0 rgba(39, 39, 39, 0.834), 0 6px 20px 0 rgba(41, 41, 41, 0.926);
+    transform: translate3d(0px, -1px, 0px);
+}

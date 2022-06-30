@@ -1,0 +1,26 @@
+#grid
+{
+    margin-top: 200px;
+}
+#myInput
+{
+    margin-left: 10px;
+    width: 80%;
+    height: 40px;
+    border-radius: 5px;
+}
+#mycnt
+{
+    border: 3px rgb(94, 89, 89) solid;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-bottom: 50px;
+    width: 800px;
+    transition: all .3s ease-in-out;
+}
+
+#mycnt:hover
+{
+    box-shadow: 0 19px 43px 0 rgba(0, 0, 0, 0.834), 0 6px 20px 0 rgba(0, 0, 0, 0.926);
+    transform: translate3d(0px, -10px, 0px);
+}

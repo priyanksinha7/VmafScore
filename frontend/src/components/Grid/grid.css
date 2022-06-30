@@ -1,0 +1,14 @@
+#grid1
+{
+    margin-top: 75px;
+}
+#resultcol
+{
+    justify-content:space-around
+}
+#scoreHeader
+{
+    font-family: 'Kdam Thmor Pro', sans-serif;
+    margin-left: 100px;
+    margin-top: 10px;
+}
